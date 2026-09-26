@@ -6,6 +6,21 @@ This project is an independent reconstruction and extension of work originally d
 
 ---
 
+## Original Datathon Context
+
+This repository independently rebuilds and extends a project originally developed by Team ASA for the 2026 Brandeis Datathon.
+
+Team members:
+- Anokh Palakurthi
+- Samiya Islam
+- Aastha Chavan
+
+The original presentation and executive summary are included in [`context_submissions/`](context_submissions/) for project context.
+
+The Python pipeline, feature engineering, model configurations, evaluation results, betting analysis, and 2026 bracket simulations in this repository were rebuilt independently and therefore may differ from the original Datathon submission.
+
+---
+
 ## Project Overview
 
 The goal of this project was to answer three main questions:
