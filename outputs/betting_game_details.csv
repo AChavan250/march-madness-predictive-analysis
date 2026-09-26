@@ -1,0 +1,153 @@
+MODEL,YEAR,TEAM1,TEAM2,SPREAD,VEGAS_PICK_TEAM1,MODEL_PICK_TEAM1,ACTUAL_TEAM1_WIN,BET_WON,PROFIT
+Random Forest,2021,North Carolina,Wisconsin,-2.0,1,0,0,True,120
+Random Forest,2021,Florida,Virginia Tech,-1.5,0,1,1,True,120
+Random Forest,2021,Clemson,Rutgers,-2.5,0,1,0,False,-100
+Random Forest,2021,USC,Kansas,-1.5,1,0,1,False,-100
+Random Forest,2021,Colorado,Florida St.,-1.0,0,1,0,False,-100
+Random Forest,2021,Texas Tech,Arkansas,-2.0,1,0,0,True,120
+Random Forest,2021,Gonzaga,Baylor,-4.5,1,0,0,True,175
+Random Forest,2022,Michigan St.,Davidson,-1.5,0,1,1,True,120
+Random Forest,2022,Murray St.,San Francisco,-1.5,1,0,1,False,-100
+Random Forest,2022,Seton Hall,TCU,-1.5,1,0,0,True,120
+Random Forest,2022,Texas Tech,Duke,-1.0,0,1,0,False,-100
+Random Forest,2022,Arizona,Houston,-1.5,1,0,0,True,120
+Random Forest,2022,Iowa St.,Miami FL,-3.5,0,1,0,False,-100
+Random Forest,2023,Michigan St.,USC,-1.5,1,0,1,False,-100
+Random Forest,2023,Iowa,Auburn,-2.0,0,1,0,False,-100
+Random Forest,2023,Indiana,Kent St.,-4.0,1,0,1,False,-100
+Random Forest,2023,Northwestern,Boise St.,-2.0,1,0,1,False,-100
+Random Forest,2023,Creighton,Baylor,-1.5,1,0,1,False,-100
+Random Forest,2023,Duke,Tennessee,-3.0,1,0,0,True,140
+Random Forest,2023,Kentucky,Kansas St.,-3.0,1,0,0,True,140
+Random Forest,2023,Gonzaga,UCLA,-1.0,0,1,1,True,105
+Random Forest,2023,San Diego St.,Creighton,-2.0,0,1,1,True,120
+Random Forest,2024,Florida Atlantic,Northwestern,-4.0,1,0,0,True,140
+Random Forest,2024,Washington St.,Drake,-1.0,0,1,1,True,105
+Random Forest,2024,Nebraska,Texas A&M,-1.0,0,1,0,False,-100
+Random Forest,2024,South Carolina,Oregon,-2.5,0,1,0,False,-100
+Random Forest,2025,Mississippi,North Carolina,-1.5,0,1,1,True,120
+Random Forest,2025,Kansas,Arkansas,-5.5,1,0,0,True,175
+Random Forest,2025,Mississippi St.,Baylor,-1.5,1,0,0,True,120
+Random Forest,2025,BYU,VCU,-1.5,1,0,1,False,-100
+Random Forest,2025,Illinois,Kentucky,-2.5,1,0,0,True,120
+Random Forest,2025,Auburn,Florida,-2.5,0,1,0,False,-100
+Random Forest,2025,Duke,Houston,-4.5,1,0,0,True,175
+Random Forest,2025,Florida,Houston,-1.5,1,0,1,False,-100
+XGBoost,2021,Creighton,UC Santa Barbara,-7.5,1,0,1,False,-100
+XGBoost,2021,Florida,Virginia Tech,-1.5,0,1,1,True,120
+XGBoost,2021,Clemson,Rutgers,-2.5,0,1,0,False,-100
+XGBoost,2021,USC,Kansas,-1.5,1,0,1,False,-100
+XGBoost,2021,Michigan,LSU,-4.0,1,0,1,False,-100
+XGBoost,2021,Colorado,Florida St.,-1.0,0,1,0,False,-100
+XGBoost,2021,Texas Tech,Arkansas,-2.0,1,0,0,True,120
+XGBoost,2021,Baylor,Villanova,-7.5,1,0,1,False,-100
+XGBoost,2021,Baylor,Houston,-5.0,1,0,1,False,-100
+XGBoost,2021,Gonzaga,Baylor,-4.5,1,0,0,True,175
+XGBoost,2022,Seton Hall,TCU,-1.5,1,0,0,True,120
+XGBoost,2022,USC,Miami FL,-2.0,1,0,0,True,120
+XGBoost,2022,Miami FL,Auburn,-6.5,0,1,1,True,220
+XGBoost,2022,Texas Tech,Duke,-1.0,0,1,0,False,-100
+XGBoost,2022,Iowa St.,Miami FL,-3.5,0,1,0,False,-100
+XGBoost,2022,Duke,North Carolina,-4.5,1,0,0,True,175
+XGBoost,2023,Michigan St.,USC,-1.5,1,0,1,False,-100
+XGBoost,2023,Iowa,Auburn,-2.0,0,1,0,False,-100
+XGBoost,2023,Indiana,Kent St.,-4.0,1,0,1,False,-100
+XGBoost,2023,Arkansas,Illinois,-2.0,1,0,1,False,-100
+XGBoost,2023,Saint Mary's,VCU,-4.0,1,0,1,False,-100
+XGBoost,2023,TCU,Arizona St.,-4.5,1,0,1,False,-100
+XGBoost,2023,Northwestern,Boise St.,-2.0,1,0,1,False,-100
+XGBoost,2023,Creighton,Baylor,-1.5,1,0,1,False,-100
+XGBoost,2023,Kentucky,Kansas St.,-3.0,1,0,0,True,140
+XGBoost,2023,Gonzaga,UCLA,-1.0,0,1,1,True,105
+XGBoost,2023,San Diego St.,Creighton,-2.0,0,1,1,True,120
+XGBoost,2024,Mississippi St.,Michigan St.,-1.5,0,1,0,False,-100
+XGBoost,2024,Nebraska,Texas A&M,-1.0,0,1,0,False,-100
+XGBoost,2024,Gonzaga,McNeese St.,-6.5,1,0,1,False,-100
+XGBoost,2024,Kansas,Samford,-7.5,1,0,1,False,-100
+XGBoost,2024,South Carolina,Oregon,-2.5,0,1,0,False,-100
+XGBoost,2024,Connecticut,Purdue,-7.0,1,0,1,False,-100
+XGBoost,2025,Mississippi,North Carolina,-1.5,0,1,1,True,120
+XGBoost,2025,Marquette,New Mexico,-4.5,1,0,0,True,175
+XGBoost,2025,Kansas,Arkansas,-5.5,1,0,0,True,175
+XGBoost,2025,Mississippi St.,Baylor,-1.5,1,0,0,True,120
+XGBoost,2025,BYU,VCU,-1.5,1,0,1,False,-100
+XGBoost,2025,BYU,Wisconsin,-1.5,0,1,1,True,120
+XGBoost,2025,Kentucky,Tennessee,-5.5,0,1,0,False,-100
+XGBoost,2025,Auburn,Michigan St.,-5.5,1,0,1,False,-100
+XGBoost,2025,Duke,Houston,-4.5,1,0,0,True,175
+XGBoost,2025,Florida,Houston,-1.5,1,0,1,False,-100
+Neural Network,2021,Oklahoma,Missouri,-1.0,0,1,1,True,105
+Neural Network,2021,BYU,UCLA,-3.5,1,0,0,True,140
+Neural Network,2021,Florida,Virginia Tech,-1.5,0,1,1,True,120
+Neural Network,2021,Clemson,Rutgers,-2.5,0,1,0,False,-100
+Neural Network,2021,Colorado,Florida St.,-1.0,0,1,0,False,-100
+Neural Network,2021,Michigan,Florida St.,-1.5,1,0,1,False,-100
+Neural Network,2022,Michigan St.,Davidson,-1.5,0,1,1,True,120
+Neural Network,2022,Seton Hall,TCU,-1.5,1,0,0,True,120
+Neural Network,2022,Ohio St.,Loyola Chicago,-1.0,0,1,1,True,105
+Neural Network,2022,San Diego St.,Creighton,-2.5,1,0,0,True,120
+Neural Network,2022,Ohio St.,Villanova,-5.0,0,1,0,False,-100
+Neural Network,2022,Michigan,Villanova,-4.5,0,1,0,False,-100
+Neural Network,2022,Iowa St.,Miami FL,-3.5,0,1,0,False,-100
+Neural Network,2023,Maryland,West Virginia,-2.5,0,1,1,True,120
+Neural Network,2023,Missouri,Utah St.,-1.5,0,1,1,True,120
+Neural Network,2023,Michigan St.,USC,-1.5,1,0,1,False,-100
+Neural Network,2023,Iowa,Auburn,-2.0,0,1,0,False,-100
+Neural Network,2023,Saint Mary's,Connecticut,-3.5,0,1,0,False,-100
+Neural Network,2023,TCU,Gonzaga,-4.5,0,1,0,False,-100
+Neural Network,2023,Kansas St.,Michigan St.,-1.0,1,0,1,False,-100
+Neural Network,2023,Arkansas,Connecticut,-3.5,0,1,0,False,-100
+Neural Network,2023,Florida Atlantic,Kansas St.,-1.5,0,1,1,True,120
+Neural Network,2024,Florida Atlantic,Northwestern,-4.0,1,0,0,True,140
+Neural Network,2024,Washington St.,Drake,-1.0,0,1,1,True,105
+Neural Network,2024,Dayton,Nevada,-1.5,0,1,1,True,120
+Neural Network,2024,Florida,Colorado,-1.0,0,1,0,False,-100
+Neural Network,2024,Utah St.,TCU,-4.0,0,1,1,True,140
+Neural Network,2024,South Carolina,Oregon,-2.5,0,1,0,False,-100
+Neural Network,2025,Mississippi,North Carolina,-1.5,0,1,1,True,120
+Neural Network,2025,Memphis,Colorado St.,-1.5,0,1,0,False,-100
+Neural Network,2025,Mississippi,Iowa St.,-5.5,0,1,1,True,175
+Neural Network,2025,Arkansas,St. John's,-7.5,0,1,1,True,220
+Neural Network,2025,BYU,Wisconsin,-1.5,0,1,1,True,120
+Neural Network,2025,UCLA,Tennessee,-5.5,0,1,0,False,-100
+Neural Network,2025,Auburn,Florida,-2.5,0,1,0,False,-100
+Neural Network,2025,Florida,Houston,-1.5,1,0,1,False,-100
+KADJ EM,2021,Oklahoma,Missouri,-1.0,0,1,1,True,105
+KADJ EM,2021,LSU,St. Bonaventure,-2.0,1,0,1,False,-100
+KADJ EM,2021,North Carolina,Wisconsin,-2.0,1,0,0,True,120
+KADJ EM,2021,Florida,Virginia Tech,-1.5,0,1,1,True,120
+KADJ EM,2021,Texas Tech,Arkansas,-2.0,1,0,0,True,120
+KADJ EM,2022,Boise St.,Memphis,-3.5,0,1,0,False,-100
+KADJ EM,2022,Michigan St.,Davidson,-1.5,0,1,1,True,120
+KADJ EM,2022,Murray St.,San Francisco,-1.5,1,0,1,False,-100
+KADJ EM,2022,Colorado St.,Michigan,-1.5,0,1,0,False,-100
+KADJ EM,2022,Texas Tech,Duke,-1.0,0,1,0,False,-100
+KADJ EM,2022,Iowa St.,Miami FL,-3.5,0,1,0,False,-100
+KADJ EM,2023,Northwestern,Boise St.,-2.0,1,0,1,False,-100
+KADJ EM,2023,Duke,Tennessee,-3.0,1,0,0,True,140
+KADJ EM,2023,Kentucky,Kansas St.,-3.0,1,0,0,True,140
+KADJ EM,2024,Washington St.,Drake,-1.0,0,1,1,True,105
+KADJ EM,2024,Dayton,Nevada,-1.5,0,1,1,True,120
+KADJ EM,2024,Nebraska,Texas A&M,-1.0,0,1,0,False,-100
+KADJ EM,2024,South Carolina,Oregon,-2.5,0,1,0,False,-100
+KADJ EM,2025,Mississippi,North Carolina,-1.5,0,1,1,True,120
+KADJ EM,2025,Mississippi St.,Baylor,-1.5,1,0,0,True,120
+KADJ EM,2025,Illinois,Kentucky,-2.5,1,0,0,True,120
+TR Rating,2021,Oklahoma,Missouri,-1.0,0,1,1,True,105
+TR Rating,2021,North Carolina,Wisconsin,-2.0,1,0,0,True,120
+TR Rating,2021,Florida,Virginia Tech,-1.5,0,1,1,True,120
+TR Rating,2021,USC,Kansas,-1.5,1,0,1,False,-100
+TR Rating,2022,Michigan St.,Davidson,-1.5,0,1,1,True,120
+TR Rating,2022,Murray St.,San Francisco,-1.5,1,0,1,False,-100
+TR Rating,2022,Ohio St.,Loyola Chicago,-1.0,0,1,1,True,105
+TR Rating,2023,Maryland,West Virginia,-2.5,0,1,1,True,120
+TR Rating,2023,Creighton,Baylor,-1.5,1,0,1,False,-100
+TR Rating,2023,Duke,Tennessee,-3.0,1,0,0,True,140
+TR Rating,2023,Connecticut,Gonzaga,-2.5,1,0,1,False,-100
+TR Rating,2024,Washington St.,Drake,-1.0,0,1,1,True,105
+TR Rating,2024,Dayton,Nevada,-1.5,0,1,1,True,120
+TR Rating,2024,Nebraska,Texas A&M,-1.0,0,1,0,False,-100
+TR Rating,2024,North Carolina,Alabama,-4.5,1,0,0,True,175
+TR Rating,2025,Mississippi St.,Baylor,-1.5,1,0,0,True,120
+TR Rating,2025,Auburn,Florida,-2.5,0,1,0,False,-100
+TR Rating,2025,Florida,Houston,-1.5,1,0,1,False,-100
